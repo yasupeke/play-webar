@@ -1,0 +1,11 @@
+{
+  "name": "play-webar",
+  "version": "0.0.1",
+  "license": "MIT",
+  "scripts": {
+    "start": "ws --spa index.html -p 5500 --https"
+  },
+  "devDependencies": {
+    "local-web-server": "^2.6.0"
+  }
+}
